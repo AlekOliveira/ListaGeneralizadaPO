@@ -1,7 +1,7 @@
 # ListaGeneralizadaPO
 
 ### Estrutura de dados e diretórios.
-Faz o uso de métodos recursivos na intenção de percorrer diretórios.
+Faz o uso de métodos recursivos na intenção de percorrer diretórios reais através de um caminho informado.
 Durante as chamandas recursivas é extraído o nome do diretório ou arquivo atual e 
 dessa forma uma lista generalizada capaz de representar a hierarquia dos diretórios e arquivos é criada.
 
